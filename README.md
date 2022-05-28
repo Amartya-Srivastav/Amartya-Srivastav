@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amartya-Srivastav
-- 👀 I’m interested in DevOps Engineering
+- 👀 I’m interested in Python Programming and Cloud Computing.
 - 🌱 I’m currently learning Btech in CS with Cloud Technology and Information Security.
 - 📫 How to reach me Mail ID - 2019cscloudamartya7104@poornima.edu.in
 
